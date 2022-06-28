@@ -12,6 +12,18 @@
   "author": "msilvabo",
   "license": "ISC",
   "dependencies": {
+    "node-fecth": "0.0.1-security",
+    "node-fetch": "^3.2.6",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msilvabo/asincrono.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msilvabo/asincrono/issues"
+  },
+  "homepage": "https://github.com/msilvabo/asincrono#readme"
 }
